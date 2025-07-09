@@ -32,6 +32,5 @@
 
 ## 🌟 Интерфейс
 
-
-
-![image](https://github.com/user-attachments/assets/50d8bf62-1357-4139-84a9-1ae81f25ec73) ![image](https://github.com/user-attachments/assets/8341b398-3e71-4bdb-afaf-88b33f1dfaa8) ![image](https://github.com/user-attachments/assets/f61f45e2-2a87-4d7e-9c71-653d9b6c1b40) ![image](https://github.com/user-attachments/assets/b0e97700-2152-4a01-81f7-a72aa0a2643b) ![image](https://github.com/user-attachments/assets/e6ad362b-a943-4181-83b4-bdf3aa85a9ac) ![image](https://github.com/user-attachments/assets/23feaf86-a3ec-4b9e-a844-52595fa15420)
+![433590613-8341b398-3e71-4bdb-afaf-88b33f1dfaa8](https://github.com/user-attachments/assets/f3463eac-abcb-49ca-baee-edab69eabb50) ![433590903-f61f45e2-2a87-4d7e-9c71-653d9b6c1b40](https://github.com/user-attachments/assets/d8b891ff-87c6-454b-bb3b-6d38d9788d8b)
+![433592045-b0e97700-2152-4a01-81f7-a72aa0a2643b](https://github.com/user-attachments/assets/b0658f8d-f8af-4dc7-bdf4-fa1eccd8bea0) ![433591246-e6ad362b-a943-4181-83b4-bdf3aa85a9ac](https://github.com/user-attachments/assets/f241a54f-3e46-48fe-be6b-fda6f5b24d63) ![433591335-23feaf86-a3ec-4b9e-a844-52595fa15420](https://github.com/user-attachments/assets/c4e06735-8388-4fb3-af54-d55b47134051)
